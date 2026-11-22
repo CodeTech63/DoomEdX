@@ -13,3 +13,5 @@ Features:
 
 WHY?
 Retro-gaming is still fun. Doom runs well on very low-resource computers, most of us played it on a 386 or 486 processor. Also, I always regretted never finishing this editor, but I had run into some personal issues that took me away from it.
+
+To use this editor, you will need Doom. Luckily it is available at https://github.com/saliukkurulo/TheUltimateDoom
