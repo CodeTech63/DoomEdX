@@ -1,4 +1,4 @@
-This is an ai assisted project that ports the 1994-1995 "DoomEd - The Real Thing" application by Geoff Allan.
+This is a modern port of the 1994-1995 "DoomEd - The Real Thing" application by Geoff Allan.
 The initial stages were a simple port so it could run in modern Windows.
 The next stage added several features that were in-progress at the time the original project was dropped.
 The final stage will be adding completely new features that I was unable to code at the time.
